@@ -1,9 +1,3 @@
-#saque, deposito e extrato
-#depositos, saques devem ser armazenados em uma var e exibidos no extrato
-#3 saques diários com limite de 500 reais por saque
-#extrato = lista saques e depósitos e exibe saldo atual
-#formato = R$1500.45
-
 LIMITE_SAQUE = float(500)
 LIMITE_SAQUE_DIA = 3
 saldo = float(3000)
