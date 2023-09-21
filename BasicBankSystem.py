@@ -7,8 +7,8 @@ depositos_realizados = []
 
 while True:
     menu = '''
----------------DIO BANK---------------
-Bem-vindo (a) ao DIO BANK System!
+---------------BANK---------------
+Bem-vindo (a) ao BANK System!
 
 Escolha a operação que deseja efetuar:
 [1] SAQUE
@@ -91,7 +91,7 @@ digite 0 para encerrar operação:
         input("\nPressione ENTER para retornar ao menu.")
     
     elif operacao == "0":
-        print("Encerrando o programa...\nObrigado por utilizar o DIO BANK System!")
+        print("Encerrando o programa...\nObrigado por utilizar o BANK System!")
         break
 
     else:
